@@ -11,7 +11,7 @@
 .bgimage {
     height:100vh;
     width: auto;
-    background: url('Image/cov.jpg');
+   
     background-size:cover;
     background-position: center;
     background-position: 100%;
